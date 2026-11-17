@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -11,7 +12,10 @@ st.markdown("""
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"D:/#Cronus_Project/Raw_DataSet/loan_approval_analysis_400_rows_v2.csv")
+    # Dynamically resolve dataset path for both local Windows and Streamlit Cloud (Linux)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_path = os.path.abspath(os.path.join(current_dir, "..", "..", "Raw_DataSet", "loan_approval_analysis_400_rows_v2.csv"))
+    df = pd.read_csv(csv_path)
     
     # Missing Value Imputation
     df['Gender'] = df['Gender'].fillna('Unknown')
