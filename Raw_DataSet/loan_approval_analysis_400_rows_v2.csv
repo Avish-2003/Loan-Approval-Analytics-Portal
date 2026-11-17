@@ -1,0 +1,401 @@
+﻿Application_ID,Application_Date,Age,Gender,Marital_Status,Dependents,Education,Employment_Type,Self_Employed,Applicant_Income_Monthly_INR,Coapplicant_Income_Monthly_INR,Household_Income_Monthly_INR,Employment_Tenure_Years,Credit_Score,Credit_History,Existing_EMI_Monthly_INR,Monthly_Savings_INR,Debt_To_Income_Ratio,Loan_Amount_INR,Loan_Term_Months,Loan_Purpose,Property_Area,Collateral_Value_INR,Bank_Relationship_Years,Loan_Status
+LA0001,2026-08-11,49,Female,Married,0,Graduate,Self-employed,Yes,61884,24062,85946,5.8,727,1,2653,15144,0.34,2495358,360,Home,Urban,2816386,9.4,Approved
+LA0002,2025-03-03,33,Male,Single,3,Graduate,Salaried,No,15000,0,15000,0.8,762,1,1855,1808,1.42,413966,24,Personal,Urban,0,4.0,Rejected
+LA0003,2025-07-11,37,Male,Married,0,Graduate,Self-employed,Yes,77825,0,77825,14.9,791,1,4525,8373,0.17,409626,60,Personal,Semiurban,,15.2,Approved
+LA0004,2025-05-19,55,Male,Single,0,Not Graduate,Salaried,No,59561,0,59561,9.1,669,1,11074,13607,0.647,3007438,300,Home,Semiurban,1923954,13.0,Approved
+LA0005,2025-03-04,21,Male,Single,3,Graduate,Self-employed,Yes,38972,0,38972,1,830,1,5506,4131,0.469,605262,60,Vehicle,Rural,680691,1.3,Approved
+LA0006,2025-01-12,34,Other,Single,1,Graduate,Salaried,No,105402,0,105402,8.5,630,1,14900,24033,0.458,3358288,288,Home,Semiurban,3516504,12.8,Approved
+LA0007,2026-06-16,56,Male,Single,4,Graduate,Salaried,No,53915,0,53915,1.6,612,0,2132,4700,0.585,1576608,72,Vehicle,Rural,2088848,14.1,Rejected
+LA0008,2026-09-01,21,Female,Married,1,Graduate,Salaried,No,16131,0,16131,1,542,0,1820,3026,0.874,1257437,180,Business,Rural,0,2.3,Rejected
+LA0009,2025-03-01,32,Male,Married,1,Graduate,Salaried,No,55384,91631,147015,12,798,1,33179,4016,0.317,412370,36,Vehicle,Rural,384109,11.8,Approved
+LA0010,2024-12-01,33,Male,Single,1,Not Graduate,Salaried,No,64530,0,64530,12.6,646,1,5681,6638,0.485,784047,36,Vehicle,Rural,0,1.6,Approved
+LA0011,2024-08-18,39,Male,Married,3,Not Graduate,Self-employed,Yes,171454,0,171454,6.0,759,1,34509,15667,0.51,5868527,240,Home,Rural,0,10.0,Approved
+LA0012,2024-09-08,46,Male,Married,1,Graduate,Self-employed,Yes,73805,21438,95243,14.6,679,1,9659,13408,0.706,5774159,264,Home,Urban,4305902,12.3,Rejected
+LA0013,2025-09-23,34,Male,Married,2,Graduate,Salaried,No,35001,38207,73208,14,689,1,4438,15843,0.711,2326092,72,Education,Urban,0,2.2,Approved
+LA0014,2025-07-03,38,Male,Single,1,Graduate,Salaried,No,59518,26111,85629,16.5,698,1,9871,7248,0.615,2513258,96,Business,Rural,1528177,11.0,Approved
+LA0015,2025-04-29,52,Male,Single,1,Graduate,Salaried,No,48207,0,48207,1.1,726,1,1306,3507,0.503,887851,48,Personal,Semiurban,348053,3.9,Rejected
+LA0016,2025-04-29,60,Male,Married,3,Graduate,Contract,No,22646,0,22646,,812,1,3899,5415,0.681,1100000,348,Home,Urban,930437,8.1,Approved
+LA0017,2026-09-20,50,Male,Married,3,Graduate,Contract,,26615,8475,35090,2.4,731,1,6886,7478,0.891,2988895,336,Home,Urban,3330696,8.0,Rejected
+LA0018,2025-03-12,51,Male,Married,3,Not Graduate,Business Owner,Yes,48144,14285,62429,8.2,699,1,8530,4400,0.423,2008679,300,Home,Semiurban,2454286,0.7,Rejected
+LA0019,2025-09-02,46,Male,Married,3,Graduate,Self-employed,Yes,42394,18369,60763,6.5,705,1,6789,9629,0.576,1102770,48,Personal,Semiurban,0,17.3,Approved
+LA0020,2025-08-08,35,Male,Divorced,0,Graduate,Contract,No,118823,0,118823,7.2,683,0,4716,15003,0.408,946749,24,Personal,Rural,0,12.7,Rejected
+LA0021,2025-07-05,27,Male,Married,0,Not Graduate,Contract,No,94115,0,94115,1.9,740,1,16282,20834,0.375,2198657,240,Home,Semiurban,0,3.2,Approved
+LA0022,2025-06-04,46,Female,Married,2,Not Graduate,Salaried,No,109463,47159,156622,,714,1,16235,27731,0.289,917898,36,Vehicle,Rural,796407,16.1,Approved
+LA0023,2026-05-31,25,Male,Married,3,Graduate,Salaried,No,73452,0,73452,5,850,1,11079,10479,0.418,1916875,288,Home,Semiurban,0,4.2,Rejected
+LA0024,2024-01-31,36,Female,Single,0,Not Graduate,Business Owner,Yes,343824,0,343824,12.5,783,1,70376,73547,0.247,723511,72,Vehicle,Semiurban,894583,17.9,Approved
+LA0025,2024-04-01,45,Female,Single,1,Graduate,Business Owner,Yes,43589,0,43589,2.6,699,1,897,6096,0.29,577427,60,Vehicle,Urban,0,13.7,Approved
+LA0026,2024-05-16,51,Male,Single,1,Graduate,Salaried,No,69711,0,69711,5.9,663,1,4822,10761,0.128,151422,48,Personal,Urban,0,6.6,Approved
+LA0027,2026-05-05,33,Female,Single,0,Graduate,Salaried,No,36974,0,36974,13,686,0,4822,5548,0.532,327945,24,Personal,Urban,0,3.2,Approved
+LA0028,2025-06-02,47,Female,Married,2,Graduate,Self-employed,Yes,57740,20886,78626,8.8,810,1,12354,9468,0.537,1629172,84,Vehicle,Rural,2089869,15.5,Approved
+LA0029,2024-04-27,54,Male,Married,0,Not Graduate,Self-employed,Yes,32622,24816,57438,13.9,709,,10334,11010,0.268,274905,84,Education,Semiurban,0,16.0,Approved
+LA0030,2026-04-10,27,Male,Single,1,Graduate,Contract,No,18696,0,18696,2.9,828,1,3480,3677,1.549,1285390,72,Vehicle,Rural,1135577,8.6,Rejected
+LA0031,2025-10-19,32,Male,Married,2,Graduate,Self-employed,Yes,51281,11745,63026,5.1,668,1,3762,2552,0.943,4597874,312,Home,Semiurban,,13.9,Approved
+LA0032,2024-11-07,35,Female,Single,2,Not Graduate,Salaried,No,18536,0,18536,15,773,1,2316,4313,0.411,380429,108,Agriculture,Urban,177518,8.4,Approved
+LA0033,2024-08-31,51,Female,Married,,Graduate,Business Owner,Yes,35076,26622,61698,14.4,597,0,7377,9416,0.917,4978959,264,Home,Semiurban,5123665,3.4,Rejected
+LA0034,2024-05-02,25,Male,Single,0,Graduate,Salaried,No,80357,24044,104401,1.8,656,1,18006,15113,0.237,499862,120,Agriculture,Semiurban,522606,0.2,Approved
+LA0035,2025-02-11,25,Male,Married,1,Graduate,Salaried,No,48816,18887,67703,5,695,1,11093,11284,0.755,3538038,180,Business,Rural,0,4.7,Approved
+LA0036,2026-04-25,46,Male,Single,0,Not Graduate,Salaried,No,87724,0,87724,3.3,571,0,12323,8385,0.468,2490424,324,Home,Urban,1515979,19.4,Rejected
+LA0037,2025-09-17,30,Male,Married,0,Not Graduate,Business Owner,Yes,59592,0,59592,10,780,1,2773,4013,0.797,1917219,60,Vehicle,Urban,0,3.4,Approved
+LA0038,2025-01-29,36,Female,Married,1,Graduate,Salaried,No,52632,0,52632,6.5,560,0,6498,11731,0.437,1438955,240,Home,Urban,890964,7.7,Rejected
+LA0039,2024-11-19,34,Female,Single,3,Not Graduate,Business Owner,Yes,54954,0,54954,,671,1,1758,10484,0.509,3366795,348,Home,Urban,3533674,5.9,Approved
+LA0040,2025-05-07,62,Male,Married,0,Not Graduate,Business Owner,Yes,18577,34682,53259,12.7,646,1,7968,5584,1.142,1166809,24,Personal,Semiurban,0,8.7,Rejected
+LA0041,2026-03-11,25,Female,Married,0,Graduate,Salaried,No,28715,25189,53904,5,591,0,12083,11446,0.864,2955874,168,Business,Rural,1610273,3.0,Rejected
+LA0042,2025-11-08,54,Male,Single,2,Not Graduate,Salaried,No,65104,0,65104,17.3,687,1,9137,9724,0.496,1483561,120,Business,Semiurban,0,8.2,Approved
+LA0043,2026-05-14,50,Male,Married,4,Graduate,Self-employed,Yes,48163,9075,57238,4.1,683,1,10663,2389,0.648,2968224,276,Home,Rural,2910780,10.5,Approved
+LA0044,2025-12-26,46,Female,Married,3,Graduate,Business Owner,Yes,62305,24273,86578,10.7,534,0,19319,4936,0.275,132481,36,Medical,Semiurban,33423,18.0,Rejected
+LA0045,2024-10-25,42,Female,Married,2,Graduate,Contract,No,29430,34206,63636,3.1,703,1,8041,3070,0.657,1499807,60,Vehicle,Semiurban,688346,6.7,Rejected
+LA0046,2026-09-29,55,Male,Married,2,Graduate,Salaried,No,83996,0,83996,18.0,731,1,17473,9577,0.499,2656048,252,Home,Urban,3536386,6.4,Rejected
+LA0047,2026-03-02,44,Male,Single,0,Not Graduate,Self-employed,Yes,21776,0,21776,7.7,650,0,2265,1399,1.171,1527811,96,Business,Urban,1693277,18.7,Rejected
+LA0048,2025-03-20,57,Male,Single,0,Graduate,Salaried,No,30242,0,30242,1.2,722,1,1406,5726,3.406,1146594,12,Personal,Urban,0,18.4,Rejected
+LA0049,2024-07-19,54,Female,Married,0,Not Graduate,Salaried,No,90246,12416,102662,14.9,629,0,12929,5407,0.525,2052491,72,Education,Semiurban,0,18.9,Rejected
+LA0050,2024-01-04,32,Male,Single,2,Not Graduate,Salaried,No,79040,0,79040,0.4,686,1,5201,8728,0.383,2619053,276,Home,Semiurban,3261964,2.3,Approved
+LA0051,2026-07-10,30,Female,Widowed,2,Not Graduate,Salaried,No,30423,0,30423,10,601,0,3856,6368,1.273,2168967,84,Business,Urban,1162369,9.9,Rejected
+LA0052,2025-09-12,51,Male,Single,1,Not Graduate,Self-employed,Yes,94017,0,94017,7.9,535,0,19060,19695,0.86,1867550,36,Vehicle,Urban,2335166,5.9,Rejected
+LA0053,2024-01-01,51,Male,Single,1,Graduate,Salaried,No,70502,0,70502,17.8,690,1,4781,5632,0.403,2181178,360,Home,Semiurban,1021214,7.7,Approved
+LA0054,2025-02-25,62,Male,Married,3,Graduate,Salaried,No,126580,0,126580,11.2,537,1,4636,22464,0.154,1017712,96,Business,Urban,1097408,9.2,Approved
+LA0055,2025-04-09,52,Female,Married,2,Not Graduate,Salaried,No,38827,57111,95938,5.7,832,1,4171,11391,0.287,1149394,72,Vehicle,Rural,0,8.9,Approved
+LA0056,2025-12-01,41,Male,Married,0,Graduate,Self-employed,Yes,93635,119168,212803,2.2,718,1,44062,25572,0.332,1054618,48,Vehicle,Urban,1130789,4.7,Approved
+LA0057,2025-10-02,61,Male,Married,0,Not Graduate,Self-employed,Yes,55098,12481,67579,2.0,555,0,5297,7761,0.484,1108081,48,Agriculture,Urban,575606,17.4,Rejected
+LA0058,2026-03-17,45,Male,Single,3,Graduate,Salaried,No,32323,0,32323,0.5,614,1,3699,1760,0.856,2239143,168,Business,Semiurban,2955954,15.9,Rejected
+LA0059,2026-04-01,33,Female,Married,2,Graduate,Contract,No,50343,13070,63413,0.9,668,1,8032,6228,1.715,3750729,48,Business,Urban,0,3.4,Rejected
+LA0060,2024-12-06,22,Male,Single,4,Graduate,Salaried,No,19297,0,19297,2,704,1,2990,1779,1.848,1476293,60,Agriculture,Urban,1709950,2.8,Rejected
+LA0061,2025-07-26,53,Male,Married,2,Not Graduate,Salaried,No,79650,28451,108101,16.8,635,0,12923,15743,0.297,746149,48,Personal,Rural,0,19.6,Approved
+LA0062,2024-07-17,52,Female,Married,2,Not Graduate,Self-employed,Yes,31018,70525,101543,9.5,664,0,3286,5988,0.112,178427,24,Personal,Urban,0,10.5,Approved
+LA0063,2024-08-06,41,Male,Married,2,Graduate,Salaried,No,53750,17733,71483,12.7,679,1,15836,1141,0.662,1730889,72,Vehicle,Urban,1824299,10.5,Approved
+LA0064,2024-10-08,57,Female,Married,0,Graduate,Contract,No,27545,0,27545,0.7,796,1,3931,3806,0.494,432424,60,Medical,Urban,0,14.2,Rejected
+LA0065,2026-01-21,46,Male,Married,1,Not Graduate,Business Owner,Yes,40522,0,40522,6.6,795,1,5748,8614,0.877,1358703,60,Vehicle,Rural,0,7.6,Approved
+LA0066,2024-10-06,40,Male,Divorced,0,Graduate,Salaried,No,23330,0,23330,1.7,740,1,2980,4410,1.451,902345,36,Education,Rural,0,13.1,Rejected
+LA0067,2024-12-31,29,Male,Married,2,Graduate,Salaried,No,36433,0,36433,9,669,1,3005,7263,0.762,1561878,108,Agriculture,Urban,1558174,0.3,Approved
+LA0068,2025-07-17,27,Female,Married,3,Graduate,Self-employed,Yes,33560,42580,76140,7,781,0,16917,9821,0.694,766779,24,Personal,Rural,0,1.2,Rejected
+LA0069,2026-07-09,23,Male,Single,2,Graduate,Salaried,No,57055,0,57055,3,797,1,7669,7729,0.672,1391542,60,Vehicle,Rural,1579804,2.5,Rejected
+LA0070,2026-06-17,49,Female,Married,4,Graduate,Salaried,No,79382,0,79382,14.6,850,1,8610,17716,0.354,426762,24,Medical,Semiurban,0,18.1,Approved
+LA0071,2025-06-17,58,Male,Married,0,Not Graduate,Business Owner,Yes,18000,6591,24591,2.6,735,0,2741,1202,0.61,1236518,324,Home,Semiurban,1633179,15.8,Approved
+LA0072,2026-01-26,49,Male,Single,1,Graduate,Salaried,No,55044,0,55044,12.1,796,1,8252,7857,0.308,1100000,300,Home,Urban,1133210,2.9,Approved
+LA0073,2026-10-08,52,Male,Married,0,Graduate,Self-employed,Yes,51929,0,51929,0.6,776,,8619,3810,1.005,4287546,240,Home,Semiurban,0,15.0,Approved
+LA0074,2024-02-01,61,Male,Single,3,Not Graduate,Salaried,No,220000,0,220000,12.1,657,1,25044,36428,0.334,1810518,48,Vehicle,Semiurban,1663935,15.6,Approved
+LA0075,2025-04-16,36,Male,Married,1,Graduate,Contract,No,12000,28376,40376,6.4,814,1,2679,5886,0.285,1100000,336,Home,Semiurban,876616,2.3,Approved
+LA0076,2025-11-15,45,Male,Married,4,Graduate,Self-employed,Yes,74679,33641,108320,6.6,628,1,2433,16070,0.125,482004,60,Personal,Semiurban,0,18.6,Rejected
+LA0077,2024-08-23,59,Male,Married,0,Graduate,Salaried,No,39990,0,39990,3.9,579,0,3804,8161,0.36,1100000,360,Home,Rural,1286446,2.9,Rejected
+LA0078,2026-07-07,42,Female,Single,0,Graduate,Salaried,No,30897,0,30897,6.2,675,1,737,3886,0.845,2409650,348,Home,Semiurban,1177330,5.3,Approved
+LA0079,2024-03-24,23,,Married,0,Graduate,Salaried,No,55673,10165,65838,3,624,1,8621,5683,0.459,1172000,72,Education,Rural,0,3.5,Approved
+LA0080,2026-10-01,48,Male,Married,2,Graduate,Salaried,No,119930,50612,170542,11.7,744,1,22562,36047,0.275,1542692,120,Agriculture,Urban,0,6.4,Approved
+LA0081,2025-01-26,36,Male,Married,1,Graduate,Self-employed,Yes,76146,0,76146,14.5,798,1,8720,17906,0.338,494836,36,Vehicle,Urban,601160,4.5,Approved
+LA0082,2025-02-19,26,Male,Married,3,Graduate,Salaried,No,15000,20412,35412,3.5,630,0,3041,7043,0.572,1849350,324,Home,Semiurban,1366051,5.8,Rejected
+LA0083,2026-05-01,37,Female,Single,2,Not Graduate,Self-employed,Yes,92867,0,92867,9.6,634,1,16295,4050,0.501,2784924,168,Business,Urban,3635472,8.5,Rejected
+LA0084,2024-04-29,29,Male,Single,0,Graduate,Self-employed,Yes,105290,0,105290,6.2,752,1,7752,4489,0.459,5293473,324,Home,Semiurban,2890085,5.2,Approved
+LA0085,2024-12-06,31,Female,Married,3,Graduate,Salaried,No,67347,16951,84298,6.7,747,1,13964,10209,0.678,1869069,60,Education,Urban,0,4.5,Rejected
+LA0086,2025-11-09,30,Female,Married,4,Not Graduate,Self-employed,Yes,19025,16865,35890,6.3,575,1,1070,2844,0.382,1166318,276,Home,Semiurban,1428162,1.8,Rejected
+LA0087,2025-12-07,57,Female,Single,0,Graduate,Salaried,No,61233,0,61233,15.7,713,1,3990,12366,0.148,299692,84,Agriculture,Urban,315358,16.0,Approved
+LA0088,2025-05-17,53,Male,Single,0,Graduate,Business Owner,Yes,350000,0,350000,10.9,715,1,10319,37143,0.133,2911098,144,Business,Semiurban,0,1.8,Approved
+LA0089,2024-07-03,58,Male,Married,0,Not Graduate,Self-employed,Yes,113169,38348,151517,4.2,698,1,17297,33513,0.322,2978302,324,Home,Urban,2802029,19.1,Rejected
+LA0090,2026-06-26,44,Male,Single,4,Not Graduate,Salaried,No,28362,0,28362,1.8,741,1,3960,3310,0.6,859967,96,Education,Urban,0,19.8,Rejected
+LA0091,2025-04-01,61,Male,Married,1,Graduate,Salaried,No,39104,0,39104,17.7,692,1,1113,2361,1.229,2577004,72,Business,Rural,3060671,1.8,Rejected
+LA0092,2025-02-21,34,Male,Married,3,Graduate,Self-employed,Yes,93515,0,93515,3.7,707,0,7736,22375,0.545,2303665,72,Education,Urban,0,1.6,Approved
+LA0093,2026-04-16,32,Male,Single,2,Graduate,Salaried,No,78568,0,78568,12,798,1,10948,10287,1.135,893473,12,Personal,Urban,376410,1.1,Rejected
+LA0094,2025-03-01,30,Male,Single,1,Graduate,Salaried,No,38934,0,38934,10,641,1,7048,9300,0.491,1099163,144,Business,Rural,,3.8,Approved
+LA0095,2026-07-28,23,Female,Married,1,Graduate,Salaried,No,101668,25741,127409,3,757,1,23834,3219,0.236,431029,108,Education,Urban,132455,4.0,Approved
+LA0096,2025-11-30,39,Female,Married,1,Not Graduate,Business Owner,Yes,97144,46351,143495,6.5,824,1,28934,29797,0.376,2749613,336,Home,Rural,2682408,2.0,Approved
+LA0097,2025-09-15,48,Male,Married,0,Not Graduate,Self-employed,Yes,36807,11014,47821,10.8,787,0,9602,8557,1.007,3432294,240,Home,Rural,3453962,13.6,Rejected
+LA0098,2025-04-07,48,Female,Married,0,Graduate,Salaried,No,33196,0,33196,1.8,729,1,3971,6564,0.496,597836,60,Education,Semiurban,0,14.8,Approved
+LA0099,2025-10-01,42,Female,Married,2,Graduate,Salaried,No,38722,29789,68511,12.3,646,1,4428,4503,0.376,920231,60,Education,Semiurban,0,3.6,Approved
+LA0100,2025-08-16,60,Female,Married,4,Graduate,Salaried,No,24690,45633,70323,4.5,605,0,2992,15623,0.24,702438,72,Vehicle,Rural,847915,13.0,Approved
+LA0101,2024-10-28,59,Male,Single,2,Not Graduate,Self-employed,Yes,21585,0,21585,3.6,703,1,1443,3298,0.734,628125,60,Medical,Urban,0,8.1,Approved
+LA0102,2024-08-28,62,,Single,0,Graduate,Business Owner,Yes,103820,0,103820,3.3,672,1,3819,9943,0.43,3878809,312,Home,Semiurban,3246455,2.1,Approved
+LA0103,2025-05-11,38,Female,Married,4,Graduate,Salaried,No,33516,52847,86363,2.7,737,1,6336,5672,0.17,481576,84,Vehicle,Semiurban,341815,1.5,Approved
+LA0104,2026-09-04,44,Male,Married,0,Not Graduate,Salaried,No,34924,24859,59783,1.8,591,1,9232,4743,0.454,1080363,84,Vehicle,Urban,,12.3,Approved
+LA0105,2026-10-25,22,Male,Married,1,Not Graduate,Salaried,No,46977,31804,78781,2,609,0,9276,15702,0.424,928692,48,Education,Urban,0,0.6,Approved
+LA0106,2025-11-22,49,Female,Married,2,Graduate,Salaried,No,54829,0,54829,8.3,684,0,10489,10378,0.451,1336632,156,Business,Semiurban,1237896,9.8,Approved
+LA0107,2024-04-26,61,Male,Single,0,Graduate,Salaried,No,117271,0,117271,17.1,665,1,24229,20347,0.554,3845994,300,Home,Rural,3061643,14.9,Rejected
+LA0108,2024-11-11,31,Other,Married,2,Graduate,Salaried,No,24851,10722,35573,9.5,684,1,2143,1114,0.611,581146,36,Medical,Semiurban,0,7.5,Approved
+LA0109,2025-08-31,32,Male,Single,2,Not Graduate,Salaried,No,40873,0,40873,8.9,663,1,3800,10061,1.078,2476261,108,Education,Semiurban,0,5.5,Approved
+LA0110,2025-06-13,62,Male,Married,0,Not Graduate,Business Owner,Yes,53367,46727,100094,6.6,660,0,16516,22139,0.838,5505526,324,Home,Urban,6449126,6.5,Approved
+LA0111,2024-09-01,39,Male,Married,1,Not Graduate,Self-employed,Yes,90421,45801,136222,13.3,778,0,7867,16719,0.158,633089,60,Personal,Semiurban,0,1.8,Rejected
+LA0112,2024-07-02,55,Male,Married,0,Not Graduate,Self-employed,Yes,37567,18586,56153,11.4,667,1,1267,8267,0.604,1187757,48,Vehicle,Semiurban,,3.7,Approved
+LA0113,2024-03-20,56,Other,Single,0,Not Graduate,Salaried,No,93258,0,93258,2.0,737,1,2325,22328,0.538,4052197,348,Home,Rural,4342482,1.7,Approved
+LA0114,2025-10-19,56,Female,Married,0,Graduate,Business Owner,Yes,68199,10026,78225,3.0,836,1,13686,12803,0.51,1460813,84,Vehicle,Urban,1908252,16.2,Rejected
+LA0115,2025-11-20,34,Male,Married,2,Graduate,Salaried,No,33346,35036,68382,5.2,787,1,14651,3075,0.363,574694,72,Vehicle,Rural,647048,3.9,Approved
+LA0116,2025-01-19,40,Female,Married,1,Not Graduate,Salaried,No,36269,28322,64591,6.5,709,1,12868,4858,1.071,4849179,276,Home,Semiurban,3465245,14.8,Rejected
+LA0117,2025-05-21,34,Male,Married,2,Not Graduate,Salaried,No,48461,43212,91673,7.1,833,1,11294,9223,0.369,1818393,132,Business,Urban,866944,5.9,Approved
+LA0118,2025-09-21,32,Male,Married,0,Graduate,Salaried,No,47773,29563,77336,11.5,664,1,2762,8840,0.486,3189521,264,Home,Urban,1674149,12.5,Rejected
+LA0119,2024-01-31,57,Male,Married,1,Graduate,Salaried,No,27526,18359,45885,3.6,623,1,2859,2211,0.737,2536249,336,Home,Semiurban,2684885,19.0,Rejected
+LA0120,2024-01-12,43,Female,Married,0,Graduate,Business Owner,,147459,0,147459,11.8,665,1,11498,5762,0.115,220870,48,Personal,Rural,0,0.7,Approved
+LA0121,2025-01-26,38,Male,Married,1,Graduate,Self-employed,Yes,69473,15244,84717,11.4,643,0,8082,11626,0.251,510509,48,Education,Rural,0,10.8,Rejected
+LA0122,2024-05-15,24,Male,Married,1,Graduate,Business Owner,Yes,147855,15861,163716,4,726,1,23216,8083,0.367,1935549,72,Agriculture,Urban,1715026,5.0,Approved
+LA0123,2024-10-08,43,Female,Single,1,Not Graduate,Salaried,No,96682,0,96682,3.4,792,1,10794,20570,0.32,2019570,252,Home,Semiurban,0,15.3,Rejected
+LA0124,2025-01-16,25,Male,Single,1,Not Graduate,Salaried,No,61740,0,61740,5,730,1,3174,2851,0.729,914249,24,Personal,Urban,0,6.1,Rejected
+LA0125,2024-02-20,22,Male,Married,0,Not Graduate,Business Owner,Yes,104735,0,104735,2,723,1,18219,15738,0.471,1772252,96,Education,Semiurban,0,3.5,Approved
+LA0126,2026-04-10,48,Female,Married,2,Graduate,Business Owner,,103842,0,103842,2.7,770,1,2912,17117,0.156,417102,36,Medical,Semiurban,0,11.0,Approved
+LA0127,2025-09-12,34,Male,Single,1,Not Graduate,Contract,No,96010,0,96010,0.2,727,1,20474,17440,0.393,1013115,84,Vehicle,Semiurban,0,8.7,Rejected
+LA0128,2024-08-17,57,Female,Married,1,Not Graduate,Salaried,No,34491,28358,62849,17.3,719,1,10274,2733,0.951,2133917,60,Business,Rural,1556468,7.3,Approved
+LA0129,2026-10-17,42,Female,Married,3,Not Graduate,Salaried,No,38452,0,38452,9.7,608,1,4206,7509,0.766,1118549,60,Vehicle,Urban,927695,16.5,Rejected
+LA0130,2026-06-09,22,Male,Single,2,Graduate,Business Owner,Yes,143820,0,143820,2,612,0,19645,21299,0.214,455205,48,Personal,Rural,0,2.6,Approved
+LA0131,2024-12-13,59,Male,Married,2,Not Graduate,Self-employed,Yes,39314,24335,63649,3.2,644,1,10163,5672,0.742,3719972,348,Home,Urban,,19.2,Rejected
+LA0132,2026-07-13,62,Male,Single,2,Not Graduate,Salaried,No,96668,0,96668,17.6,793,1,7636,19175,0.418,1030443,36,Education,Urban,0,6.5,Approved
+LA0133,2026-09-21,52,Female,Single,,Not Graduate,Salaried,No,85521,0,85521,10.3,638,0,12806,17794,0.547,737393,24,Personal,Urban,0,8.7,Rejected
+LA0134,2025-04-01,35,Male,Single,2,Not Graduate,Contract,No,15326,0,15326,0.8,624,1,3110,2626,2.019,860224,36,Vehicle,Rural,0,0.1,Rejected
+LA0135,2024-07-20,23,Male,Married,0,Graduate,Salaried,No,55720,0,55720,3,646,1,8389,12151,0.276,506183,144,Business,Rural,427276,2.7,Approved
+LA0136,2024-08-24,58,Male,Single,3,Graduate,Salaried,No,25751,0,25751,4.9,489,1,4167,3122,0.519,487787,72,Education,Rural,0,15.8,Rejected
+LA0137,2026-03-06,41,Male,Married,0,Not Graduate,Salaried,No,45688,100241,145929,0.9,551,0,23064,12469,0.333,1447135,72,Vehicle,Urban,788348,14.4,Rejected
+LA0138,2024-11-24,29,Male,Married,3,Graduate,Salaried,No,67945,0,67945,9,558,0,11205,16136,0.29,526550,84,Vehicle,Semiurban,677465,10.5,Approved
+LA0139,2024-12-11,30,Male,Married,3,Not Graduate,Business Owner,Yes,45504,0,45504,2.8,509,0,4181,4366,0.558,668985,36,Medical,Semiurban,0,6.3,Rejected
+LA0140,2026-07-07,55,Female,Married,3,Graduate,Salaried,No,54106,35648,89754,10.9,645,1,11782,4890,0.698,4844506,300,Home,Semiurban,2866919,0.7,Approved
+LA0141,2025-01-27,50,Male,Married,1,Graduate,Contract,No,26371,0,26371,0.2,722,1,4499,1817,0.667,1000177,108,Business,Rural,0,9.0,Rejected
+LA0142,2025-12-06,55,Female,Single,3,Graduate,Salaried,No,46473,0,46473,6.3,695,1,4824,1317,0.548,1072013,72,Education,Semiurban,0,6.8,Approved
+LA0143,2026-03-14,59,Male,Married,1,Graduate,Self-employed,Yes,53124,22994,76118,5.5,783,1,16478,3628,0.662,2900715,360,Home,Urban,1778818,7.8,Rejected
+LA0144,2026-08-02,29,Male,Married,2,Graduate,Salaried,No,39349,8675,48024,9,739,1,4146,3217,0.803,2704317,180,Business,Semiurban,,2.7,Approved
+LA0145,2026-03-06,53,Female,Married,3,Graduate,Salaried,No,24963,8425,33388,13.3,695,0,6625,7230,2.078,1891895,36,Vehicle,Urban,904256,4.7,Rejected
+LA0146,2024-10-30,49,Male,Married,2,Not Graduate,Salaried,No,20792,0,20792,10.0,760,1,2152,1723,1.011,1003150,84,Vehicle,Semiurban,1177725,2.8,Approved
+LA0147,2025-02-03,49,Male,Single,0,Not Graduate,Salaried,No,23844,0,23844,6.2,664,0,4085,2061,0.493,461820,96,Education,Urban,213158,18.1,Rejected
+LA0148,2024-07-06,58,Male,Single,2,Graduate,Salaried,No,79378,10710,90088,2.6,636,1,8988,16807,0.653,1587218,36,Vehicle,Rural,1916206,9.3,Approved
+LA0149,2025-05-29,56,Female,Single,2,Graduate,Salaried,No,22805,0,22805,6.2,690,1,2503,3525,0.883,1462442,348,Home,Semiurban,0,9.1,Rejected
+LA0150,2026-04-08,44,,Married,3,Graduate,Salaried,No,42615,38937,81552,6.3,631,1,8636,12159,0.408,3083053,348,Home,Urban,2101198,17.5,Approved
+LA0151,2025-10-21,23,Male,Single,2,Not Graduate,Self-employed,Yes,30229,0,30229,3,663,1,1704,5097,0.374,565651,84,Vehicle,Urban,256817,1.7,Rejected
+LA0152,2026-01-12,54,Male,Single,0,Graduate,Business Owner,Yes,47199,0,47199,13.9,723,1,3976,7600,0.436,1056760,120,Education,Semiurban,0,13.2,Approved
+LA0153,2026-08-29,32,Male,Married,0,Not Graduate,Salaried,No,20604,0,20604,3.5,556,0,3743,2207,0.956,852998,72,Vehicle,Rural,940607,7.5,Rejected
+LA0154,2024-03-29,24,Male,Single,3,Not Graduate,Business Owner,Yes,77104,0,77104,4,821,1,8471,5137,0.441,1633122,108,Education,Urban,0,1.7,Approved
+LA0155,2024-07-30,28,Male,Single,0,Graduate,Business Owner,Yes,37676,26576,64252,8,595,0,11775,13941,0.692,1626156,72,Agriculture,Semiurban,0,8.2,Rejected
+LA0156,2025-05-19,35,Male,Single,2,Not Graduate,Salaried,No,58247,0,58247,11.2,695,1,12095,9667,0.43,1661739,324,Home,Rural,2219819,3.7,Approved
+LA0157,2025-08-17,31,Male,Divorced,0,Graduate,Salaried,No,40180,0,40180,11,662,1,809,9409,0.258,437991,60,Personal,Urban,0,9.2,Approved
+LA0158,2026-03-15,54,Female,Married,1,Graduate,Contract,No,43490,28196,71686,6.1,579,0,9833,7511,0.465,2734553,264,Home,Semiurban,3286046,15.2,Approved
+LA0159,2026-05-06,45,Female,Married,1,Not Graduate,Salaried,No,63309,80252,143561,,685,1,13025,9454,0.285,1189966,60,Personal,Semiurban,0,2.1,Approved
+LA0160,2025-04-22,59,Female,Single,0,Graduate,Salaried,No,41539,0,41539,16.2,606,1,3127,6884,2.078,2437333,36,Business,Rural,2383537,13.5,Rejected
+LA0161,2026-08-06,33,Male,Married,1,Not Graduate,Contract,No,13447,0,13447,5.4,583,1,1049,1518,1.976,801237,36,Education,Rural,0,6.1,Rejected
+LA0162,2026-10-20,60,Male,Married,0,Not Graduate,Salaried,No,29707,0,29707,17.4,712,0,984,4745,1.992,1717116,36,Education,Semiurban,396528,18.6,Approved
+LA0163,2026-01-11,40,Male,Single,3,Graduate,Salaried,No,36333,0,36333,9.1,653,0,2687,4208,0.415,500707,48,Personal,Rural,0,4.5,Rejected
+LA0164,2026-09-04,38,Male,Married,2,Not Graduate,Salaried,No,136912,0,136912,1.7,572,1,28930,22738,0.332,675344,48,Medical,Rural,0,12.1,Rejected
+LA0165,2025-01-22,35,Female,Married,3,Not Graduate,Business Owner,Yes,98234,0,98234,13.9,686,0,3145,13076,0.1,286340,60,Personal,Rural,0,7.9,Approved
+LA0166,2024-06-27,45,Male,Married,0,Graduate,Salaried,No,50650,26507,77157,17.8,724,0,11244,16506,0.256,340145,48,Vehicle,Semiurban,410840,19.4,Approved
+LA0167,2024-04-11,22,Female,Married,3,Graduate,Salaried,No,45473,28963,74436,2,607,1,14910,10685,0.677,2983835,336,Home,Rural,3966904,2.5,Rejected
+LA0168,2025-09-08,27,Male,Married,1,Not Graduate,Self-employed,Yes,98565,20829,119394,7,703,,24699,4433,0.644,5179734,264,Home,Semiurban,2469967,3.1,Approved
+LA0169,2026-08-23,24,Male,Single,2,Graduate,Salaried,No,50383,0,50383,4,850,1,5109,5510,0.29,1100000,336,Home,Rural,1193096,4.6,Approved
+LA0170,2025-08-22,29,Male,Married,0,Not Graduate,Self-employed,Yes,64051,21303,85354,9,706,1,3491,17163,0.455,3397700,336,Home,Urban,2507445,9.1,Approved
+LA0171,2025-07-04,38,Male,Married,3,Graduate,Salaried,No,69302,18506,87808,16.1,600,1,18558,14592,0.999,2066749,36,Education,Rural,661157,6.1,Approved
+LA0172,2024-04-10,21,Female,Married,2,Graduate,Salaried,No,30270,0,30270,1,634,1,5041,1670,1.545,1796383,60,Education,Rural,0,1.4,Rejected
+LA0173,2025-02-21,29,Female,Married,1,Not Graduate,Self-employed,Yes,42272,22293,64565,9,721,1,9068,10531,0.856,4786500,324,Home,Urban,4136895,0.3,Approved
+LA0174,2024-10-16,50,Male,Married,0,Graduate,Self-employed,Yes,31445,0,31445,10.7,667,1,5508,6886,0.488,621676,84,Vehicle,Semiurban,396222,7.7,Approved
+LA0175,2025-01-25,58,Male,Single,0,Graduate,Business Owner,Yes,27480,0,27480,7.5,681,0,4115,4975,2.31,665105,12,Personal,Rural,0,6.4,Rejected
+LA0176,2025-11-21,37,Male,Married,3,Graduate,Salaried,No,36280,19058,55338,2.0,587,0,9649,3232,0.838,3350774,300,Home,Rural,1884693,15.0,Rejected
+LA0177,2025-12-01,52,Male,Married,1,Not Graduate,Self-employed,Yes,32125,0,32125,4.0,617,0,3581,2791,0.713,737408,48,Agriculture,Semiurban,915798,1.1,Rejected
+LA0178,2024-04-14,31,Male,Single,0,Not Graduate,Business Owner,Yes,138523,0,138523,6.3,675,1,5443,31826,0.202,2679983,240,Home,Urban,0,0.2,Rejected
+LA0179,2026-07-17,36,Male,Single,1,Graduate,Salaried,No,48573,0,48573,12.1,717,0,3709,4720,0.248,398849,60,Personal,Semiurban,0,8.0,Rejected
+LA0180,2025-10-06,38,Other,Married,0,Graduate,Salaried,No,35012,17181,52193,14.4,624,1,10329,6697,1.319,1859321,36,Education,Semiurban,0,5.1,Rejected
+LA0181,2024-01-03,48,Male,Married,2,Not Graduate,Self-employed,Yes,107489,12272,119761,4.9,817,1,15339,12374,0.487,3394099,132,Business,Semiurban,0,12.6,Approved
+LA0182,2024-05-06,48,Male,Married,,Graduate,Salaried,No,73045,14712,87757,9.7,729,1,19738,6371,0.674,4084489,348,Home,Urban,3678027,8.0,Approved
+LA0183,2025-03-01,50,Male,Single,3,Graduate,Salaried,No,20430,0,20430,4.6,520,0,4452,2460,0.917,1666157,264,Home,Rural,1876921,1.3,Rejected
+LA0184,2025-01-16,59,Male,Single,1,Graduate,Salaried,No,31719,0,31719,9.2,647,,6582,5796,1.784,1105409,24,Personal,Urban,,9.1,Rejected
+LA0185,2026-02-11,55,Male,Single,1,Not Graduate,Salaried,No,63932,0,63932,13.4,632,0,12451,3811,0.434,1290905,360,Home,Urban,0,12.0,Approved
+LA0186,2025-04-26,46,Male,Married,1,Graduate,Salaried,,90608,20135,110743,14.5,760,1,20408,22104,0.303,399682,36,Vehicle,Urban,,14.2,Approved
+LA0187,2026-05-08,29,Male,Married,3,Graduate,Salaried,No,29873,6405,36278,5.4,692,1,4141,7507,0.442,1319844,348,Home,Urban,1040182,7.4,Approved
+LA0188,2026-04-08,51,Male,Married,0,Graduate,Self-employed,Yes,97563,0,97563,14.6,605,0,12686,3507,0.744,4751128,252,Home,Rural,0,1.9,Rejected
+LA0189,2026-09-25,29,Female,Married,1,Not Graduate,Self-employed,Yes,65365,33860,99225,8.0,562,0,8182,3311,0.2,716750,108,Education,Urban,0,3.0,Rejected
+LA0190,2025-09-26,52,Male,Married,2,Graduate,Salaried,No,48762,14193,62955,5.0,725,1,5148,15095,1.146,5477225,336,Home,Semiurban,4376416,8.6,Rejected
+LA0191,2026-01-31,25,Male,Married,3,Graduate,Self-employed,Yes,25028,34442,59470,5,692,1,9227,10901,0.636,1294457,60,Vehicle,Urban,1362832,6.8,Rejected
+LA0192,2026-05-08,47,Male,Single,1,Graduate,Self-employed,Yes,59949,0,59949,2.6,728,1,3778,6007,0.514,3282636,264,Home,Urban,2529964,16.5,Approved
+LA0193,2024-12-03,46,Female,Single,2,Not Graduate,Contract,No,39991,0,39991,3.2,627,1,2887,5253,0.532,1178690,108,Education,Semiurban,0,5.9,Rejected
+LA0194,2024-12-17,52,Male,Married,1,Not Graduate,Salaried,No,31107,7754,38861,15.8,721,0,4229,2431,0.832,1485008,72,Education,Rural,0,1.1,Rejected
+LA0195,2025-12-23,42,Female,Married,1,Graduate,Business Owner,Yes,89586,100336,189922,17.0,787,1,30455,45607,0.467,4668155,240,Home,Semiurban,2953261,18.5,Approved
+LA0196,2026-03-18,51,Female,Single,2,Graduate,Self-employed,Yes,280000,0,280000,8.5,767,1,63231,28239,0.27,455434,48,Vehicle,Urban,514582,6.6,Approved
+LA0197,2025-12-24,45,Male,Married,2,Not Graduate,Salaried,No,62775,39528,102303,12.5,793,1,2828,3429,0.45,4423569,288,Home,Urban,4305910,8.0,Rejected
+LA0198,2025-04-13,54,Male,Married,1,Graduate,Contract,No,78294,0,78294,6.3,649,1,11765,10277,0.409,1459408,120,Education,Semiurban,,13.2,Approved
+LA0199,2024-02-22,46,Male,Single,1,Not Graduate,Salaried,No,63742,0,63742,1.7,760,1,2952,4387,0.483,2611211,348,Home,Semiurban,1764429,4.4,Approved
+LA0200,2024-12-18,38,Male,Single,2,Graduate,Business Owner,Yes,18000,28250,46250,11.5,701,1,10330,945,1.024,3278719,240,Home,Urban,0,12.6,Rejected
+LA0201,2024-10-04,45,Male,Divorced,0,Graduate,Self-employed,Yes,35885,0,35885,9.9,693,1,1713,1836,0.735,766478,36,Vehicle,Urban,582729,10.6,Approved
+LA0202,2024-07-23,55,Male,Married,2,Graduate,Salaried,No,77618,39281,116899,3.3,844,1,13427,10210,0.492,5595305,336,Home,Urban,0,12.5,Approved
+LA0203,2024-10-20,28,Male,Married,4,Not Graduate,Salaried,No,37261,28145,65406,8,732,1,5357,13859,0.452,2634207,360,Home,Rural,3293042,3.5,Rejected
+LA0204,2026-05-05,60,Male,Married,0,Graduate,Self-employed,Yes,76462,16616,93078,3.5,644,1,3060,19041,0.154,430011,48,Medical,Urban,,0.3,Rejected
+LA0205,2024-10-30,22,Male,Single,,Not Graduate,Business Owner,Yes,57463,0,57463,2,570,0,7603,11846,0.399,907630,84,Agriculture,Urban,1106449,3.9,Rejected
+LA0206,2024-11-19,54,Male,Married,2,Not Graduate,Self-employed,Yes,43523,18096,61619,5.5,830,1,9571,10886,0.396,1925727,348,Home,Urban,1820477,1.4,Approved
+LA0207,2024-09-21,40,Female,Divorced,0,Not Graduate,Salaried,No,64981,0,64981,2.8,777,1,5966,11076,0.157,248000,84,Education,Rural,0,17.9,Approved
+LA0208,2025-03-08,43,Female,Married,3,Graduate,Business Owner,Yes,75253,76602,151855,6.2,733,1,33855,28585,0.402,2839592,336,Home,Semiurban,1333199,11.1,Approved
+LA0209,2025-08-28,59,Male,Single,1,Graduate,Salaried,No,57852,0,57852,17.0,737,1,8443,3002,0.493,2052415,264,Home,Semiurban,0,9.3,Approved
+LA0210,2026-01-23,38,Female,Single,0,Not Graduate,Salaried,No,29621,0,29621,10.3,700,1,4870,3654,1.204,1222330,48,Education,Urban,0,10.9,Rejected
+LA0211,2025-07-21,21,Male,Single,4,Graduate,Business Owner,Yes,59148,0,59148,1,760,1,10063,1952,0.446,1759052,336,Home,Semiurban,1887722,1.5,Rejected
+LA0212,2025-10-23,53,Female,Single,0,Not Graduate,Business Owner,Yes,53253,0,53253,10.6,587,0,11451,5834,0.275,214247,108,Education,Urban,,0.3,Approved
+LA0213,2026-05-16,37,Female,Married,1,Graduate,Business Owner,Yes,47468,24771,72239,17,611,1,2474,4353,0.371,920923,48,Business,Semiurban,587236,13.6,Approved
+LA0214,2025-05-29,49,Female,Single,1,Not Graduate,Business Owner,Yes,121085,0,121085,9.8,812,1,22684,17392,0.428,2453853,348,Home,Semiurban,2804615,0.2,Approved
+LA0215,2026-03-11,58,Male,Married,0,Graduate,Salaried,No,30428,0,30428,9.6,714,1,729,1586,0.678,992246,72,Vehicle,Rural,670649,16.3,Approved
+LA0216,2026-06-29,55,Male,Married,0,Graduate,Self-employed,Yes,145742,29963,175705,14.1,605,1,29822,31118,0.372,2843827,252,Home,Urban,2734214,10.4,Approved
+LA0217,2024-12-02,30,Male,Married,4,Not Graduate,Salaried,No,74316,9573,83889,4.4,643,1,19078,14063,0.619,2898928,276,Home,Semiurban,2892169,1.4,Approved
+LA0218,2025-03-10,58,Female,Single,0,Graduate,Business Owner,Yes,99660,0,99660,8.6,802,1,2651,8008,0.372,1925566,84,Vehicle,Semiurban,2032829,5.4,Rejected
+LA0219,2024-04-21,29,Female,Married,1,Not Graduate,Salaried,No,66396,23896,90292,9,598,0,11763,20152,0.728,2107826,48,Business,Rural,1507386,3.3,Rejected
+LA0220,2025-04-01,26,Male,Married,0,Graduate,Self-employed,Yes,17523,25068,42591,6,717,1,8509,6381,0.578,1465370,156,Business,Rural,1398357,3.4,Rejected
+LA0221,2026-09-22,60,Male,Married,3,Not Graduate,Salaried,No,52901,18736,71637,7.9,663,0,14238,7906,0.722,1487337,48,Agriculture,Rural,1516391,5.3,Approved
+LA0222,2025-07-10,34,Male,Single,1,Graduate,Salaried,No,39716,0,39716,7.6,758,1,1367,6548,0.781,918736,36,Vehicle,Urban,0,3.8,Approved
+LA0223,2026-09-30,22,Male,Married,1,Not Graduate,Salaried,No,34628,55901,90529,2,808,1,2563,5910,0.198,331286,24,Medical,Urban,147678,3.7,Approved
+LA0224,2024-09-03,26,Male,Single,0,Not Graduate,Self-employed,Yes,79939,0,79939,6,786,0,5151,16099,0.177,334142,48,Agriculture,Rural,0,7.5,Approved
+LA0225,2024-06-17,47,Male,Single,0,Graduate,Self-employed,Yes,30647,0,30647,7.8,701,1,2903,1684,1.073,1961548,108,Business,Semiurban,0,14.9,Approved
+LA0226,2024-11-08,33,Female,Single,2,Not Graduate,Salaried,No,26608,0,26608,6.1,667,1,2648,5783,0.743,972022,72,Vehicle,Semiurban,700925,6.1,Approved
+LA0227,2024-03-22,36,Male,Married,1,Not Graduate,Salaried,No,52628,30789,83417,10.1,724,1,16076,19443,0.563,1254838,48,Education,Rural,0,2.9,Approved
+LA0228,2025-02-14,46,Male,Married,2,Graduate,Business Owner,Yes,60807,8623,69430,7.9,474,1,5313,14729,0.395,1537946,96,Education,Semiurban,0,7.4,Rejected
+LA0229,2024-10-16,49,Male,Married,0,Graduate,Salaried,No,61099,0,61099,8.3,612,1,4223,12315,0.9,3238011,108,Business,Rural,0,3.9,Rejected
+LA0230,2025-07-05,41,Female,Single,2,Not Graduate,Salaried,No,35321,0,35321,4.9,693,1,6555,5984,1.517,988066,24,Medical,Urban,0,12.9,Rejected
+LA0231,2025-11-04,28,Male,Single,2,Graduate,Salaried,No,62311,0,62311,4.8,626,1,11525,12129,0.633,1296960,60,Vehicle,Rural,1304717,8.0,Approved
+LA0232,2024-04-16,41,Female,Married,1,Graduate,Salaried,No,59175,11313,70488,6.7,720,1,13260,13516,0.825,5267823,324,Home,Rural,,16.9,Approved
+LA0233,2026-08-15,56,Male,Married,4,Graduate,Salaried,No,115481,15244,130725,13.1,549,0,22606,20704,0.361,898578,48,Vehicle,Semiurban,0,6.6,Rejected
+LA0234,2025-02-12,37,Male,Single,,Graduate,Salaried,,37366,0,37366,17,642,1,2148,4491,0.436,1762308,348,Home,Rural,0,9.4,Approved
+LA0235,2025-03-09,42,Female,Single,0,Graduate,Self-employed,Yes,76164,0,76164,8.1,640,0,5247,18242,0.3,666031,48,Personal,Urban,0,9.6,Rejected
+LA0236,2025-07-22,34,Male,Single,2,Graduate,Salaried,No,22513,0,22513,4.2,678,1,3203,4381,0.804,701563,60,Personal,Rural,0,1.0,Approved
+LA0237,2024-12-01,48,Female,Married,0,Graduate,Salaried,No,40455,114900,155355,3.5,755,1,25951,7999,0.376,4262130,348,Home,Semiurban,0,15.0,Approved
+LA0238,2026-10-24,28,Male,Single,2,Not Graduate,Salaried,No,52757,0,52757,8,721,1,6957,3172,0.326,1137699,276,Home,Semiurban,1312107,0.2,Approved
+LA0239,2024-08-13,46,Male,Married,0,Not Graduate,Salaried,No,76110,43494,119604,16.0,494,0,20867,13563,0.282,785143,84,Agriculture,Urban,585566,10.3,Rejected
+LA0240,2025-10-25,46,Male,Married,1,Graduate,Self-employed,Yes,52002,0,52002,10.6,639,1,3587,6015,0.318,488709,48,Vehicle,Urban,649526,2.7,Approved
+LA0241,2025-05-21,28,Female,Single,0,Not Graduate,Salaried,No,61145,0,61145,8,766,1,8337,12762,0.46,225254,12,Personal,Semiurban,92985,6.2,Approved
+LA0242,2025-05-10,23,Female,Married,3,Not Graduate,Contract,No,12000,0,12000,0.5,666,1,2239,477,0.481,207053,96,Education,Semiurban,0,4.3,Approved
+LA0243,2024-09-10,31,Male,Divorced,2,Graduate,Self-employed,Yes,42179,0,42179,3.4,717,1,7927,2044,1.78,2481735,48,Education,Semiurban,0,8.7,Rejected
+LA0244,2026-09-18,57,Male,Single,0,Not Graduate,Self-employed,Yes,46648,0,46648,9.4,644,1,9571,3411,0.773,980030,48,Personal,Rural,0,0.2,Rejected
+LA0245,2025-01-24,60,,Married,0,Graduate,Salaried,No,142144,20236,162380,12.3,647,1,27070,23638,0.541,1809866,36,Vehicle,Urban,1278270,3.3,Approved
+LA0246,2024-07-25,38,Male,Single,3,Graduate,Self-employed,Yes,26869,31661,58530,3.0,692,1,5959,6266,0.394,1234331,120,Education,Urban,0,17.3,Approved
+LA0247,2024-06-14,37,Male,Married,0,Graduate,Salaried,No,95298,0,95298,2.0,648,1,4135,20685,0.21,1006485,96,Education,Urban,0,10.1,Approved
+LA0248,2026-08-20,26,Male,Married,2,Graduate,Salaried,No,38263,0,38263,6,676,0,6029,4216,0.399,399538,60,Medical,Rural,0,4.5,Approved
+LA0249,2024-04-30,53,Male,Married,1,Not Graduate,Contract,No,20656,20624,41280,2.3,730,1,1613,4140,0.666,1204649,60,Vehicle,Semiurban,1177260,14.4,Approved
+LA0250,2026-05-13,61,Female,Single,2,Graduate,Salaried,No,66209,0,66209,2.5,683,0,9282,12261,0.909,1563938,36,Business,Semiurban,0,2.7,Rejected
+LA0251,2024-02-28,53,Male,Married,1,Graduate,Salaried,No,54268,48529,102797,14.6,682,1,13248,15620,0.321,843570,60,Education,Semiurban,,14.7,Approved
+LA0252,2026-03-15,25,Female,Married,0,Not Graduate,Salaried,No,53071,28630,81701,5,679,1,10096,14008,0.294,770110,72,Vehicle,Rural,434910,2.4,Approved
+LA0253,2024-06-16,47,Male,Married,2,Graduate,Salaried,No,123287,50737,174024,3.7,711,1,23314,7489,0.301,1063764,48,Vehicle,Semiurban,784661,8.9,Approved
+LA0254,2024-12-11,24,Female,Single,3,Graduate,Contract,No,40883,0,40883,4,621,0,7022,8091,0.517,1383959,300,Home,Urban,1207603,3.6,Rejected
+LA0255,2024-04-06,58,Female,Married,2,Graduate,Salaried,No,47897,0,47897,7.9,634,0,6414,5372,0.424,523742,48,Personal,Rural,0,9.3,Rejected
+LA0256,2025-03-31,62,Male,Married,4,Graduate,Business Owner,Yes,77927,7562,85489,1.8,635,0,17739,17126,0.861,5916552,288,Home,Semiurban,0,11.6,Rejected
+LA0257,2024-11-14,55,Male,Married,2,Not Graduate,Business Owner,Yes,50397,17709,68106,12.8,767,1,1918,12971,0.476,1528359,72,Vehicle,Urban,1845590,2.2,Approved
+LA0258,2026-05-03,24,Male,Married,0,Graduate,Self-employed,Yes,19777,29002,48779,4,627,1,5983,4525,0.403,542346,48,Personal,Urban,0,5.1,Rejected
+LA0259,2024-08-19,24,Male,Single,4,Graduate,Self-employed,Yes,124216,0,124216,4,554,0,25504,14628,0.674,6035762,240,Home,Semiurban,,1.0,Approved
+LA0260,2026-07-04,26,Male,Married,0,Graduate,Self-employed,Yes,56172,0,56172,6,665,1,11363,10906,0.67,832685,36,Vehicle,Urban,0,4.6,Rejected
+LA0261,2026-02-15,23,Male,Single,1,Graduate,Business Owner,Yes,211792,0,211792,3,752,1,37909,35494,0.264,2007293,264,Home,Semiurban,0,2.0,Approved
+LA0262,2025-07-23,36,Female,Single,3,Graduate,Self-employed,Yes,25145,0,25145,10.5,693,1,1241,2748,0.582,1809938,360,Home,Rural,1641722,17.5,Approved
+LA0263,2024-10-13,51,Male,Single,2,Graduate,Salaried,No,40325,0,40325,14.8,656,0,2805,7502,0.828,2549049,324,Home,Urban,,3.8,Approved
+LA0264,2026-08-15,29,Male,Married,2,Graduate,Salaried,No,96997,53329,150326,9,833,1,34048,7950,0.507,4774613,264,Home,Urban,4391447,6.3,Approved
+LA0265,2024-10-17,27,Male,Single,0,Graduate,Salaried,No,52717,0,52717,7,590,1,3894,9991,0.933,2360012,72,Business,Semiurban,0,0.8,Rejected
+LA0266,2024-05-18,44,Male,Single,1,Graduate,Salaried,No,75729,0,75729,6.7,779,1,2742,8933,0.325,247675,12,Personal,Semiurban,0,16.9,Approved
+LA0267,2026-05-18,39,Male,Married,2,Graduate,Self-employed,Yes,24713,15101,39814,10.9,567,0,5477,3218,0.625,1159084,96,Education,Semiurban,0,12.4,Approved
+LA0268,2026-07-01,44,Male,Single,2,Graduate,Salaried,No,23102,0,23102,0.8,668,1,3614,1900,1.192,703494,36,Vehicle,Rural,523524,9.7,Rejected
+LA0269,2024-12-25,39,Male,Single,1,Graduate,Salaried,No,45246,11881,57127,0.3,720,1,9614,3187,0.242,270983,96,Education,Rural,0,2.7,Rejected
+LA0270,2024-07-02,26,Male,Married,0,Graduate,Contract,No,20461,0,20461,4.4,753,1,438,2440,0.737,441469,36,Agriculture,Semiurban,0,2.2,Approved
+LA0271,2024-06-22,26,Male,Single,1,Graduate,Salaried,No,29148,0,29148,6,708,1,1276,4684,0.446,915217,120,Education,Urban,,6.4,Approved
+LA0272,2025-05-20,47,Male,Single,2,Graduate,Salaried,No,58208,0,58208,16.3,717,1,11389,1422,0.873,1158437,36,Vehicle,Rural,915920,0.6,Approved
+LA0273,2024-08-17,35,Male,Married,2,Graduate,Salaried,No,32932,17842,50774,15,817,0,11121,7934,0.302,250444,84,Agriculture,Semiurban,245510,2.7,Rejected
+LA0274,2026-02-20,21,Male,Married,2,Not Graduate,Self-employed,Yes,75340,19720,95060,1,596,0,2722,14645,0.117,575816,132,Business,Rural,530343,0.9,Approved
+LA0275,2026-08-06,42,Female,Married,0,Not Graduate,Salaried,No,94268,34798,129066,4.5,582,0,19367,29696,0.235,1012069,168,Business,Semiurban,509857,15.2,Rejected
+LA0276,2025-05-31,49,Female,Married,1,Graduate,Business Owner,Yes,36831,19434,56265,13.0,650,1,10324,1879,0.611,2022802,264,Home,Semiurban,1447831,2.4,Approved
+LA0277,2025-06-20,60,Male,Married,2,Not Graduate,Business Owner,Yes,57985,25921,83906,,848,1,8961,13035,0.366,247948,12,Personal,Urban,0,0.4,Approved
+LA0278,2026-06-08,54,Male,Single,1,Not Graduate,Salaried,No,61827,0,61827,8.5,524,0,10180,2956,0.808,3481405,312,Home,Urban,4131798,15.2,Approved
+LA0279,2026-06-02,36,Male,Married,1,Not Graduate,Self-employed,Yes,121896,0,121896,6.2,483,0,26062,12852,0.412,2787823,252,Home,Semiurban,0,7.8,Rejected
+LA0280,2025-01-07,59,Female,Married,2,Graduate,Salaried,No,62089,14323,76412,10.5,687,1,15952,12486,0.334,464418,60,Vehicle,Semiurban,,11.2,Approved
+LA0281,2024-01-02,32,Male,Married,3,Graduate,Salaried,No,47466,24863,72329,12,720,1,11806,16747,1.237,871610,12,Personal,Urban,0,12.8,Rejected
+LA0282,2024-08-07,26,Male,Single,2,Not Graduate,Self-employed,Yes,134782,34572,169354,2.3,762,1,18235,29568,0.406,4657366,252,Home,Rural,0,3.4,Approved
+LA0283,2025-11-30,44,Male,Single,1,Graduate,Self-employed,Yes,82831,0,82831,4.2,610,1,10749,8290,0.712,4034525,264,Home,Rural,4556743,18.8,Rejected
+LA0284,2025-08-30,50,Male,Single,0,Graduate,Salaried,No,62839,0,62839,1.6,785,1,5689,2001,0.481,2502546,324,Home,Semiurban,0,15.5,Approved
+LA0285,2025-04-15,56,Male,Married,0,Graduate,Contract,No,35444,28906,64350,3.0,610,1,14410,13099,0.531,950303,72,Vehicle,Urban,542903,4.7,Rejected
+LA0286,2026-08-15,58,Male,Single,0,Not Graduate,Contract,No,21230,0,21230,3.7,598,0,2958,3902,0.52,511076,84,Vehicle,Semiurban,427853,13.4,Approved
+LA0287,2026-01-10,56,Male,Single,1,Graduate,Salaried,No,26542,0,26542,12.3,738,0,4319,801,0.941,2100688,276,Home,Semiurban,1522648,3.5,Approved
+LA0288,2026-07-01,30,Male,Single,4,Graduate,Self-employed,Yes,51458,0,51458,10,728,,11437,1115,0.659,1522198,108,Agriculture,Urban,0,0.4,Rejected
+LA0289,2024-08-04,50,Male,Married,2,Graduate,Self-employed,Yes,198273,0,198273,9.6,674,1,34549,36792,0.304,1922592,108,Education,Rural,0,14.3,Rejected
+LA0290,2026-03-17,44,Male,Married,1,Not Graduate,Salaried,No,63559,18207,81766,16.0,780,1,11835,6260,0.294,445509,48,Education,Urban,0,18.7,Approved
+LA0291,2025-03-26,54,Male,Single,2,Graduate,Salaried,No,53985,0,53985,8.6,567,0,7021,2527,0.553,1206968,84,Education,Rural,0,6.9,Rejected
+LA0292,2024-12-11,56,Male,Married,2,Graduate,Salaried,No,62239,0,62239,4.8,580,0,9442,13631,0.394,702942,60,Vehicle,Urban,463094,12.7,Rejected
+LA0293,2025-02-21,47,Male,Single,2,Graduate,Self-employed,Yes,33024,0,33024,6.2,639,0,800,4640,0.638,602059,36,Education,Urban,0,10.6,Rejected
+LA0294,2024-03-20,54,Male,Married,0,Not Graduate,Self-employed,Yes,90325,36857,127182,4.2,615,0,28038,10595,0.356,1437503,144,Business,Rural,1170644,1.2,Rejected
+LA0295,2024-11-01,47,Female,Married,0,Graduate,Self-employed,Yes,59590,5000,64590,6.3,453,0,1916,14361,0.088,150451,48,Medical,Rural,0,6.9,Approved
+LA0296,2024-04-17,61,Male,Single,0,Graduate,Contract,No,30723,0,30723,0.2,598,1,7017,5389,0.749,1415662,288,Home,Semiurban,,5.9,Rejected
+LA0297,2025-05-24,44,Female,Single,1,Graduate,Contract,No,76280,0,76280,6.5,676,1,6742,9434,0.302,482335,36,Education,Semiurban,0,14.8,Approved
+LA0298,2024-02-16,26,Male,Married,1,Not Graduate,Self-employed,Yes,119453,61859,181312,6,792,1,36791,22290,0.246,538910,96,Agriculture,Urban,369967,3.7,Approved
+LA0299,2025-04-07,62,Male,Married,0,Graduate,Salaried,No,27668,0,27668,8.3,674,1,2512,2513,0.831,1562967,108,Business,Urban,1749197,12.1,Rejected
+LA0300,2026-05-03,38,Male,Single,0,Graduate,Salaried,No,26262,0,26262,15.4,824,1,4623,1697,0.679,1100000,276,Home,Rural,1467171,16.2,Approved
+LA0301,2024-12-04,59,Male,Married,3,Not Graduate,Salaried,No,72682,0,72682,2.2,700,1,15160,1092,0.644,4294493,360,Home,Urban,3631556,14.2,Approved
+LA0302,2024-11-11,29,Female,Single,3,Not Graduate,Salaried,,31311,0,31311,,632,0,3734,621,1.222,2655562,180,Business,Rural,1942389,2.8,Rejected
+LA0303,2026-10-05,23,Male,Married,0,Graduate,Salaried,No,55068,35459,90527,3,775,1,17479,5169,0.635,1190751,36,Education,Semiurban,0,2.0,Approved
+LA0304,2024-11-09,46,Male,Married,0,Graduate,Salaried,No,47090,11861,58951,5.0,766,1,3436,13627,0.283,1498542,348,Home,Semiurban,1778826,12.5,Approved
+LA0305,2025-12-17,43,Other,Single,1,Graduate,Salaried,No,48915,0,48915,12.3,782,1,3094,1495,0.617,2312224,336,Home,Urban,0,7.1,Approved
+LA0306,2024-08-23,46,Male,Married,4,Not Graduate,Salaried,No,48238,10475,58713,1.7,627,,12274,12619,0.826,786457,24,Personal,Semiurban,0,6.0,Rejected
+LA0307,2024-11-26,61,Male,Single,3,Not Graduate,Salaried,No,38642,0,38642,4.5,636,0,3633,5897,0.898,1635075,72,Education,Rural,0,11.5,Rejected
+LA0308,2024-07-18,45,Male,Married,3,Graduate,Salaried,No,140368,50588,190956,6.8,706,1,23008,33407,0.321,1770444,60,Vehicle,Rural,1323598,12.9,Approved
+LA0309,2024-10-21,33,Female,Married,0,Graduate,Salaried,No,24878,0,24878,11.3,576,0,2355,2951,0.507,1100000,240,Home,Urban,1055927,10.9,Approved
+LA0310,2025-10-10,39,Male,Single,3,Graduate,Self-employed,Yes,82042,0,82042,12.8,767,1,10075,16685,0.4,1268382,72,Vehicle,Urban,726752,5.5,Approved
+LA0311,2024-07-26,32,Male,Married,1,Graduate,Business Owner,Yes,196557,66201,262758,12,552,0,18884,44128,0.136,1268426,108,Education,Semiurban,0,7.3,Rejected
+LA0312,2025-05-23,37,Male,Married,0,Not Graduate,Salaried,No,27859,0,27859,14.0,614,0,822,2995,0.588,452746,36,Vehicle,Urban,0,1.7,Approved
+LA0313,2024-01-16,42,,Married,0,Not Graduate,Salaried,No,106068,19775,125843,6.0,746,0,13853,25504,0.316,3430156,324,Home,Urban,3776469,13.8,Approved
+LA0314,2024-07-17,62,Female,Married,,Graduate,Business Owner,Yes,200236,6075,206311,14.3,746,1,7536,8495,0.105,423983,36,Personal,Urban,0,13.8,Approved
+LA0315,2025-12-19,55,Female,Married,4,Graduate,Business Owner,Yes,66652,0,66652,1.4,656,0,2556,13060,0.458,3078395,276,Home,Urban,2876386,3.8,Approved
+LA0316,2025-12-31,31,Male,Married,2,Not Graduate,Salaried,No,40001,21107,61108,11,683,0,5488,3104,0.298,484996,48,Medical,Urban,0,5.7,Approved
+LA0317,2024-04-20,52,Female,Single,3,Not Graduate,Self-employed,Yes,16752,44257,61009,5.4,765,1,7998,12453,0.64,2547532,324,Home,Urban,1801233,0.9,Approved
+LA0318,2024-04-16,41,Male,Married,2,Graduate,Business Owner,Yes,62327,13934,76261,17.5,540,0,6393,17740,0.192,242694,36,Medical,Urban,0,8.9,Rejected
+LA0319,2024-12-20,41,Male,Married,3,Not Graduate,Salaried,No,27797,37465,65262,11.7,644,0,3029,9413,0.236,957468,120,Education,Semiurban,0,11.0,Approved
+LA0320,2024-12-12,21,Male,Married,0,Not Graduate,Business Owner,Yes,49174,43256,92430,1,568,0,13019,13870,0.471,1560131,72,Agriculture,Rural,1114504,2.8,Rejected
+LA0321,2026-09-10,39,Male,Married,3,Graduate,Salaried,No,88386,47094,135480,4.5,732,1,20733,16637,0.993,3572829,36,Business,Rural,3232684,0.0,Approved
+LA0322,2024-02-21,46,Male,Single,2,Not Graduate,Salaried,No,45131,23842,68973,5.0,757,1,2436,3632,0.721,1036585,24,Personal,Urban,,11.4,Rejected
+LA0323,2024-12-17,26,Male,Married,1,Not Graduate,Business Owner,Yes,106103,0,106103,3.7,850,0,4173,19507,0.514,4245490,240,Home,Urban,5693609,7.9,Rejected
+LA0324,2024-05-29,46,Female,Single,1,Graduate,Contract,No,33845,0,33845,5.6,739,0,3725,2862,0.19,124434,60,Personal,Semiurban,0,2.0,Approved
+LA0325,2025-10-16,43,Other,Married,2,Graduate,Self-employed,,85088,31537,116625,12.0,739,1,3853,26890,0.165,1051911,108,Business,Semiurban,1152592,8.9,Approved
+LA0326,2025-04-15,60,Female,Married,1,Graduate,Self-employed,Yes,127205,0,127205,5.6,690,,25964,24612,0.57,530546,12,Personal,Rural,278433,7.0,Rejected
+LA0327,2024-02-14,40,Male,Married,2,Not Graduate,Salaried,No,32795,12916,45711,16.4,805,1,6370,5753,0.954,4105493,264,Home,Urban,4914538,15.1,Approved
+LA0328,2024-04-25,49,Male,Married,0,Graduate,Self-employed,Yes,69205,21919,91124,3.6,605,0,7053,6583,0.269,547811,36,Vehicle,Urban,455419,10.4,Rejected
+LA0329,2024-01-10,42,Male,Married,2,Graduate,Salaried,No,59996,53104,113100,8.4,780,1,3749,13144,0.334,2824671,312,Home,Urban,0,2.5,Approved
+LA0330,2024-02-12,36,Male,Single,2,Graduate,Salaried,No,50044,0,50044,10.1,711,0,4161,1366,0.39,822139,72,Business,Semiurban,904603,11.8,Rejected
+LA0331,2026-02-03,44,Male,Married,0,Graduate,Salaried,No,33374,0,33374,3.1,705,1,5407,5571,0.751,1651123,264,Home,Rural,1284521,17.8,Approved
+LA0332,2024-07-27,29,Male,Single,1,Not Graduate,Salaried,No,30162,0,30162,9,748,1,4237,4356,0.586,824378,96,Business,Urban,,8.2,Approved
+LA0333,2024-05-27,28,Female,Single,4,Graduate,Salaried,No,53050,0,53050,1.4,590,0,5509,6755,0.155,117683,60,Personal,Semiurban,0,6.1,Rejected
+LA0334,2025-05-24,48,Male,Married,1,Graduate,Self-employed,Yes,56884,39278,96162,14.7,539,0,13153,17969,0.378,1086689,60,Personal,Urban,0,12.3,Rejected
+LA0335,2025-01-17,54,Female,Single,1,Graduate,Self-employed,Yes,280000,0,280000,9.9,524,0,59248,37655,0.314,2065664,132,Business,Semiurban,0,3.2,Approved
+LA0336,2025-12-08,24,Male,Divorced,2,Graduate,Salaried,No,35857,0,35857,,715,1,1393,8702,0.667,2662243,288,Home,Semiurban,1823430,3.3,Approved
+LA0337,2024-02-21,55,Male,Married,4,Graduate,Business Owner,Yes,64105,44586,108691,16.8,634,1,14939,9764,0.352,1026714,60,Personal,Urban,0,9.9,Rejected
+LA0338,2026-03-23,57,Male,Single,3,Graduate,Self-employed,Yes,71230,0,71230,3.8,695,1,4254,8612,0.45,1732925,96,Education,Urban,0,4.7,Approved
+LA0339,2026-01-01,58,Male,Married,0,Graduate,Salaried,No,98553,40875,139428,4.9,724,0,6280,30104,0.235,1041463,48,Vehicle,Semiurban,728682,6.6,Approved
+LA0340,2025-01-12,27,Male,Single,1,Graduate,Salaried,No,37000,0,37000,7,649,0,2757,8421,0.903,1234638,48,Vehicle,Urban,1540927,2.2,Rejected
+LA0341,2026-05-03,48,Male,Married,0,Not Graduate,Salaried,No,86722,51674,138396,1.0,690,1,11022,26399,0.418,5270943,324,Home,Semiurban,6843123,3.7,Approved
+LA0342,2024-03-10,46,Male,Single,1,Graduate,Business Owner,Yes,59982,0,59982,13.5,618,1,5863,2136,0.234,386337,60,Medical,Urban,0,9.0,Approved
+LA0343,2026-10-06,46,Male,Single,1,Graduate,Salaried,No,61687,0,61687,7.5,680,0,5114,10472,0.491,1348148,72,Education,Urban,0,19.3,Rejected
+LA0344,2026-09-06,62,Male,Single,2,Graduate,Salaried,No,50669,0,50669,14.5,660,1,6209,2791,0.314,467883,60,Medical,Urban,0,18.7,Approved
+LA0345,2026-07-25,38,Male,Married,2,Graduate,Contract,No,36449,33070,69519,3.9,808,1,12444,8200,0.39,640535,60,Agriculture,Urban,0,3.3,Approved
+LA0346,2024-08-22,48,,Single,0,Graduate,Salaried,No,58808,0,58808,4.0,679,0,10544,718,0.484,873972,72,Vehicle,Urban,582361,19.7,Approved
+LA0347,2025-06-12,35,Male,Single,2,Graduate,Business Owner,Yes,54117,0,54117,4.0,649,1,1790,4058,0.592,1980465,120,Education,Urban,0,8.0,Approved
+LA0348,2024-05-31,47,Male,Married,1,Graduate,Self-employed,Yes,22263,0,22263,3.7,616,0,5036,1268,2.249,507552,12,Medical,Rural,0,18.3,Rejected
+LA0349,2025-11-20,57,Male,Married,1,Not Graduate,Salaried,No,62346,0,62346,14.0,683,0,2132,13627,0.718,1257534,36,Vehicle,Semiurban,892495,19.6,Rejected
+LA0350,2026-10-19,43,Male,Married,0,Graduate,Salaried,No,81894,46079,127973,13.2,715,1,25924,22819,0.35,1787919,156,Business,Rural,1307814,16.6,Approved
+LA0351,2024-10-15,26,Male,Single,0,Graduate,Salaried,No,60512,0,60512,6,784,1,12668,11824,0.852,1560992,48,Vehicle,Urban,1383513,0.1,Approved
+LA0352,2025-02-22,35,Male,Married,1,Graduate,Self-employed,Yes,62702,21750,84452,6.0,519,1,9811,14578,0.362,1215661,84,Vehicle,Urban,666940,9.5,Approved
+LA0353,2026-06-13,37,Male,Divorced,3,Not Graduate,Salaried,No,89120,0,89120,16.6,682,0,14735,12663,0.752,4754685,348,Home,Semiurban,3283147,14.8,Rejected
+LA0354,2026-01-09,32,Male,Married,0,Graduate,Salaried,No,29756,0,29756,3.3,829,1,1790,1298,0.574,1670007,252,Home,Urban,774671,4.9,Approved
+LA0355,2025-06-10,22,Male,Married,4,Graduate,Contract,No,13525,0,13525,1.4,815,1,809,2567,0.262,126709,60,Personal,Urban,40626,1.7,Approved
+LA0356,2026-03-17,57,Male,Married,1,Graduate,Salaried,No,165507,5279,170786,13.9,634,1,30754,38390,0.299,637435,36,Personal,Rural,0,15.7,Approved
+LA0357,2026-05-24,43,Male,Single,1,Graduate,Salaried,No,66824,0,66824,10.4,633,1,13648,8109,0.952,4352067,264,Home,Rural,4792306,9.6,Rejected
+LA0358,2026-03-22,39,Female,Single,0,Graduate,Salaried,No,27027,0,27027,10.9,601,0,3007,5021,1.03,1124747,60,Personal,Urban,0,6.1,Rejected
+LA0359,2024-06-14,58,Female,Divorced,4,Graduate,Self-employed,Yes,52705,0,52705,10.1,701,1,6323,8398,0.519,943803,60,Vehicle,Semiurban,0,16.9,Rejected
+LA0360,2025-12-12,58,Male,Single,2,Not Graduate,Self-employed,Yes,16086,0,16086,2.5,696,1,3054,3410,0.964,493246,48,Education,Urban,0,3.8,Approved
+LA0361,2026-06-24,41,Male,Single,0,Graduate,Self-employed,Yes,35599,0,35599,,573,0,3493,5960,0.677,1266679,84,Vehicle,Urban,826321,8.5,Rejected
+LA0362,2024-05-26,34,Female,Single,2,Graduate,Business Owner,Yes,124900,0,124900,14,732,1,8997,3891,0.514,5511412,264,Home,Urban,3873031,7.8,Approved
+LA0363,2024-02-28,45,Male,Married,2,Not Graduate,Salaried,,32231,7832,40063,,711,1,4681,3881,0.543,1686662,300,Home,Rural,1963542,11.2,Approved
+LA0364,2025-07-04,41,Male,Married,0,Graduate,Contract,No,33065,102521,135586,1.1,621,1,21822,7421,0.61,689601,12,Personal,Urban,0,15.3,Rejected
+LA0365,2024-07-07,55,Male,Single,2,Not Graduate,Self-employed,Yes,44345,0,44345,12.0,713,1,9274,7820,0.831,1099768,48,Education,Semiurban,0,9.0,Rejected
+LA0366,2024-12-28,54,Male,Married,0,Graduate,Salaried,No,58040,45427,103467,10.0,693,0,10777,20562,0.315,1074712,72,Vehicle,Urban,1419387,3.2,Rejected
+LA0367,2025-09-03,49,Female,Married,0,Graduate,Salaried,No,30649,23956,54605,1.7,663,0,12409,8674,0.791,1146310,48,Personal,Semiurban,0,17.8,Rejected
+LA0368,2024-10-31,53,Male,Married,1,Not Graduate,Business Owner,Yes,72725,23925,96650,4.2,650,0,16099,7140,0.228,382361,84,Vehicle,Urban,380574,15.3,Approved
+LA0369,2026-06-26,24,Female,Married,3,Not Graduate,Business Owner,,65575,0,65575,4,695,1,5582,8254,0.362,2159631,348,Home,Urban,0,5.0,Approved
+LA0370,2026-02-15,23,Male,Single,0,Graduate,Self-employed,Yes,39966,0,39966,3,740,1,5372,1623,2.121,905868,12,Personal,Semiurban,259352,4.1,Rejected
+LA0371,2025-05-22,27,Male,Married,1,Graduate,Salaried,No,23328,0,23328,4.2,563,0,2501,4277,0.642,1109114,312,Home,Semiurban,1268582,6.7,Rejected
+LA0372,2024-12-28,32,Male,Single,3,Not Graduate,Self-employed,Yes,106497,0,106497,12,580,0,23138,15056,0.285,273175,48,Personal,Urban,0,6.6,Approved
+LA0373,2024-07-13,59,Female,Married,0,Graduate,Salaried,No,48363,21096,69459,9.1,799,1,14868,11711,0.83,1599853,48,Vehicle,Rural,1820841,0.8,Rejected
+LA0374,2025-08-02,42,Male,Single,2,Graduate,Salaried,No,39343,0,39343,3.8,641,0,2734,3278,1.63,1953169,36,Vehicle,Urban,1178370,10.9,Rejected
+LA0375,2026-08-26,38,Male,Married,0,Graduate,Salaried,No,32765,0,32765,3.8,668,1,6529,3197,0.478,545757,84,Education,Urban,0,8.6,Rejected
+LA0376,2024-07-12,23,Male,Married,3,Not Graduate,Salaried,No,37261,27187,64448,3,681,1,6288,6170,0.464,1603134,120,Education,Urban,0,3.7,Approved
+LA0377,2026-05-08,35,Male,Single,0,Graduate,Salaried,No,49061,0,49061,8.3,714,1,4441,7617,0.439,1616945,288,Home,Rural,0,11.8,Approved
+LA0378,2025-10-17,24,,Married,4,Graduate,Self-employed,Yes,36141,55848,91989,4,685,0,16814,16390,0.858,5090827,300,Home,Semiurban,5783275,0.3,Rejected
+LA0379,2026-09-18,43,Male,Married,1,Not Graduate,Salaried,No,61000,0,61000,0.7,465,0,9321,7938,0.541,1495905,108,Agriculture,Semiurban,0,14.6,Rejected
+LA0380,2025-09-19,39,Male,Married,1,Not Graduate,Contract,No,22740,57907,80647,2.5,556,0,2199,6199,0.097,225024,48,Education,Urban,0,9.4,Rejected
+LA0381,2025-09-03,59,Male,Single,2,Graduate,Self-employed,Yes,12000,0,12000,13.1,564,0,2641,403,1.052,1100000,348,Home,Rural,0,4.1,Rejected
+LA0382,2026-02-15,41,Female,Single,3,Graduate,Business Owner,Yes,40717,0,40717,13.3,620,0,7966,7126,0.284,246925,108,Education,Rural,0,0.4,Rejected
+LA0383,2025-09-14,34,Male,Married,1,Not Graduate,Salaried,No,49307,0,49307,14,643,1,5410,11029,0.46,1155550,120,Agriculture,Semiurban,1526617,14.9,Approved
+LA0384,2026-03-26,60,Female,Married,0,Not Graduate,Self-employed,Yes,203238,0,203238,1.6,594,0,22078,7832,0.246,1076520,48,Vehicle,Semiurban,1335603,6.7,Rejected
+LA0385,2025-02-25,38,Male,Single,2,Not Graduate,Salaried,No,32786,0,32786,17.5,741,1,6007,1958,0.61,1198462,252,Home,Rural,967442,19.5,Rejected
+LA0386,2024-01-01,44,Male,Single,2,Not Graduate,Self-employed,Yes,20228,14065,34293,12.3,751,1,2783,7414,3.161,1174354,12,Personal,Urban,0,7.4,Rejected
+LA0387,2025-06-24,29,Male,Married,2,Graduate,Salaried,No,23890,94669,118559,1.4,689,1,10327,11911,0.434,1794113,60,Education,Rural,0,7.8,Approved
+LA0388,2024-09-02,29,Male,Single,1,Not Graduate,Self-employed,Yes,72996,0,72996,2.0,705,1,6698,2871,0.88,1799819,36,Vehicle,Urban,1204799,4.4,Approved
+LA0389,2025-12-13,59,Female,Married,2,Not Graduate,Salaried,No,41095,115054,156149,8.0,552,1,15217,21455,0.587,2232067,36,Education,Rural,0,16.8,Approved
+LA0390,2024-11-22,32,Female,Married,2,Graduate,Self-employed,Yes,13774,19883,33657,12,699,1,2882,6523,1.649,1092774,24,Personal,Semiurban,0,11.1,Rejected
+LA0391,2025-08-21,34,Male,Married,0,Not Graduate,Salaried,No,69322,6899,76221,14,824,0,3154,10611,0.601,1693769,48,Vehicle,Semiurban,1424910,11.4,Rejected
+LA0392,2026-02-28,28,Male,Single,1,Graduate,Contract,No,40734,0,40734,2.3,791,1,2193,9108,1.405,1708608,36,Education,Semiurban,0,5.8,Rejected
+LA0393,2025-01-03,56,Male,Single,3,Not Graduate,Salaried,No,62290,0,62290,11.2,818,1,5789,5149,0.33,1235800,336,Home,Semiurban,0,11.1,Approved
+LA0394,2025-04-28,27,Male,Married,2,Graduate,Salaried,No,65243,20182,85425,7,646,1,8496,19772,0.153,137642,36,Medical,Rural,0,0.2,Approved
+LA0395,2024-05-23,27,Female,Married,0,Not Graduate,Salaried,No,27818,0,27818,6.6,661,0,3865,3011,0.975,1198583,72,Vehicle,Urban,1095416,3.7,Rejected
+LA0396,2025-02-17,44,Female,Single,0,Not Graduate,Salaried,No,26099,9536,35635,16.7,707,1,3821,4405,1.108,779735,24,Personal,Urban,0,8.6,Rejected
+LA0397,2025-07-06,37,Male,Single,,Graduate,Salaried,No,35387,8670,44057,8.4,730,1,2278,8122,0.355,493984,48,Personal,Urban,,11.8,Approved
+LA0398,2026-09-24,24,Female,Single,0,Graduate,Self-employed,Yes,72029,0,72029,4,799,1,2967,6929,0.748,4056289,264,Home,Urban,1862453,1.6,Rejected
+LA0399,2026-08-19,36,Male,Single,0,Graduate,Self-employed,Yes,90146,0,90146,12.6,645,1,19136,9867,0.55,1147738,48,Personal,Semiurban,0,8.2,Rejected
+LA0400,2025-06-04,34,Female,Married,1,Graduate,Salaried,No,40890,25680,66570,8.9,650,1,10456,11753,0.492,2472226,348,Home,Rural,1603466,11.2,Approved
