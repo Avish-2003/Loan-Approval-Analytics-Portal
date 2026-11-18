@@ -28,28 +28,6 @@ def home_page():
         """
     )
 
-    # --- QUICK UPLOAD WIDGET ON HOME PAGE ---
-    with st.expander("📂 Quick Upload Custom Dataset (Optional)", expanded=False):
-        st.markdown("Upload your custom CSV dataset here to cache it into the session instantly across all pages:")
-        home_uploaded_file = st.file_uploader("Choose a loan CSV file", type=["csv"], key="home_uploader")
-        
-        if home_uploaded_file is not None:
-            try:
-                df_home = pd.read_csv(home_uploaded_file)
-                st.session_state['uploaded_df'] = df_home
-                st.session_state['uploaded_filename'] = home_uploaded_file.name
-                st.success(f"✅ Successfully cached **{home_uploaded_file.name}** ({df_home.shape[0]:,} rows) into session memory!")
-            except Exception as e:
-                st.error(f"Error loading file: {e}")
-                
-        if 'uploaded_df' in st.session_state and st.session_state['uploaded_df'] is not None:
-            st.info(f"📌 Currently Active Custom Dataset: **{st.session_state.get('uploaded_filename', 'Custom CSV')}**")
-            if st.button("🗑️ Clear Custom Dataset (Revert to Default)"):
-                del st.session_state['uploaded_df']
-                if 'uploaded_filename' in st.session_state:
-                    del st.session_state['uploaded_filename']
-                st.rerun()
-
     st.divider()
 
     col1, col2, col3 = st.columns(3)
