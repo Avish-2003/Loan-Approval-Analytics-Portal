@@ -63,22 +63,18 @@ def process_data(df):
         
     return df
 
-@st.cache_data
-def load_default_data():
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    csv_path = os.path.abspath(os.path.join(current_dir, "..", "..", "Raw_DataSet", "loan_approval_analysis_400_rows_v2.csv"))
-    return pd.read_csv(csv_path)
+# --- LOAD DATA SOURCE (SESSION STATE ONLY - NO DEFAULT DATASET) ---
+if 'uploaded_df' not in st.session_state or st.session_state['uploaded_df'] is None:
+    st.sidebar.warning("📂 Active Dataset: None (0 records)")
+    st.title("📊 Interactive Streamlit Loan Analytics Dashboard")
+    st.divider()
+    st.info("👋 No dataset is currently loaded. Please upload a CSV file on the **Upload Dataset** page to view and analyze records.")
+    st.stop()
 
-# --- LOAD DATA SOURCE (SESSION STATE OR DEFAULT FALLBACK) ---
 try:
-    if 'uploaded_df' in st.session_state and st.session_state['uploaded_df'] is not None:
-        raw_df = st.session_state['uploaded_df'].copy()
-        filename = st.session_state.get('uploaded_filename', 'Custom Dataset')
-        st.sidebar.success(f"📂 Active Dataset: {filename}")
-    else:
-        raw_df = load_default_data().copy()
-        st.sidebar.info("📂 Active Dataset: Default Project CSV")
-        
+    raw_df = st.session_state['uploaded_df'].copy()
+    filename = st.session_state.get('uploaded_filename', 'Custom Dataset')
+    st.sidebar.success(f"📂 Active Dataset: {filename}")
     df = process_data(raw_df)
 except Exception as e:
     st.error(f"Error loading dataset: {e}")
